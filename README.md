@@ -15,6 +15,6 @@ Maintenance and new features to be handled by client’s nephew.<br>
 
 Code should be as neat as this dog is cute!
 
-![Max](/Max-small.jpg)
+![max](/Max-small.JPG)
 
 
