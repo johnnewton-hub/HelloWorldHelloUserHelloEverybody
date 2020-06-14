@@ -14,6 +14,7 @@ Source code must be delivered to client<br>
 Maintenance and new features to be handled by client’s nephew.<br>
 
 Code should be as neat as this dog is cute!
-![Max](
+
+![Max](/Max-small.jpg)
 
 
