@@ -3,7 +3,7 @@
 
 
 
-This is my first *C#* Console application. It is not for distribution and I am not accepting pull requests.
+This is my first *C#* Console application. It is not for distribution and I am not accepting pull requests(other than from myself).
 
 ## Requirements:
 
@@ -12,7 +12,8 @@ This is my first *C#* Console application. It is not for distribution and I am n
 1. .exe must be delivered to client<br>
 1. Source code must be delivered to client<br>
 1. Maintenance and new features to be handled by client’s nephew.<br>
-join me on [*Trello*](https://trello.com/b/sWwcU86i/c-introduction-helloworld)
+
+## Join me on [*Trello*](https://trello.com/b/sWwcU86i/c-introduction-helloworld)
 
 ## Code should be as neat as this dog is cute!
 ![max](/Max-small.JPG)
