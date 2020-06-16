@@ -13,7 +13,7 @@ This is my first *C#* Console application. It is not for distribution and I am n
 1. Source code must be delivered to client<br>
 1. Maintenance and new features to be handled by client’s nephew.<br>
 
-## Code should be as neat as this dog is cute!##
+## Code should be as neat as this dog is cute!
 
 ![max](/Max-small.JPG)
 
