@@ -1,0 +1,13 @@
+C:\Users\johnn\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserJN\HelloWorldUserJN\bin\Debug\netcoreapp3.1\HelloWorldUserJN.exe
+C:\Users\johnn\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserJN\HelloWorldUserJN\bin\Debug\netcoreapp3.1\HelloWorldUserJN.deps.json
+C:\Users\johnn\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserJN\HelloWorldUserJN\bin\Debug\netcoreapp3.1\HelloWorldUserJN.runtimeconfig.json
+C:\Users\johnn\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserJN\HelloWorldUserJN\bin\Debug\netcoreapp3.1\HelloWorldUserJN.runtimeconfig.dev.json
+C:\Users\johnn\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserJN\HelloWorldUserJN\bin\Debug\netcoreapp3.1\HelloWorldUserJN.dll
+C:\Users\johnn\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserJN\HelloWorldUserJN\bin\Debug\netcoreapp3.1\HelloWorldUserJN.pdb
+C:\Users\johnn\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserJN\HelloWorldUserJN\obj\Debug\netcoreapp3.1\HelloWorldUserJN.csprojAssemblyReference.cache
+C:\Users\johnn\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserJN\HelloWorldUserJN\obj\Debug\netcoreapp3.1\HelloWorldUserJN.AssemblyInfoInputs.cache
+C:\Users\johnn\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserJN\HelloWorldUserJN\obj\Debug\netcoreapp3.1\HelloWorldUserJN.AssemblyInfo.cs
+C:\Users\johnn\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserJN\HelloWorldUserJN\obj\Debug\netcoreapp3.1\HelloWorldUserJN.csproj.CoreCompileInputs.cache
+C:\Users\johnn\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserJN\HelloWorldUserJN\obj\Debug\netcoreapp3.1\HelloWorldUserJN.dll
+C:\Users\johnn\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserJN\HelloWorldUserJN\obj\Debug\netcoreapp3.1\HelloWorldUserJN.pdb
+C:\Users\johnn\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserJN\HelloWorldUserJN\obj\Debug\netcoreapp3.1\HelloWorldUserJN.genruntimeconfig.cache
