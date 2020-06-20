@@ -2,12 +2,18 @@
 
 namespace HelloWorldUserJN
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static ConsoleKey keyPressed;
+        public static void Main()
         {
             Console.WriteLine("Hello World!");
-            while (Console.ReadKey().Key != ConsoleKey.Enter) { }
+            while (keyPressed != ConsoleKey.Enter)
+            {
+                Console.WriteLine("\n Press the Enter key to end this programm...");
+                keyPressed = Console.ReadKey().Key;
+            }
         }
     }
 }
+//Refactored code relates to page 61 of lesson one
